@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Custom Software Development Freelance Project<br>👯 I’m looking to collaborate on Mastercard<br>🤝 I’m looking for help with Devops, Data engineer, Custom Software building, AI/ML projects<br>🌱 I’m currently learning Data Science.
 
 
 ## 🌐 Socials:
